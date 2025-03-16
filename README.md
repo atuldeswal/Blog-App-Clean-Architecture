@@ -51,46 +51,46 @@ Blog App is a Flutter-based blogging application that allows users to create acc
 
 ### 🔐 Login/SignUp Screen  
 <p align="center">
-  <img src="screenshots/login.jpg" width="45%">
-  <img src="screenshots/signup.jpg" width="45%">
+  <img src="screenshots/login.jpg" width="35%">
+  <img src="screenshots/signup.jpg" width="35%">
 </p>
 
 ### 🏠 Home Page  
 <p align="center">
-  <img src="screenshots/home.jpg" width="90%">
+  <img src="screenshots/home.jpg" width="35%">
 </p>
 
 ### ✍️ Create/Edit Blog  
 <p align="center">
-  <img src="screenshots/create_blog.jpg" width="90%">
+  <img src="screenshots/create_blog.jpg" width="35%">
 </p>
 
 ### 👤 Profile Page  
 <p align="center">
-  <img src="screenshots/profile.jpg" width="45%">
-  <img src="screenshots/edit.jpg" width="45%">
+  <img src="screenshots/profile.jpg" width="35%">
+  <img src="screenshots/edit.jpg" width="35%">
 </p>
 
 ### 🔍 Own Blog Details/Other's Blog Details  
 <p align="center">
-  <img src="screenshots/own.jpg" width="45%">
-  <img src="screenshots/other.jpg" width="45%">
+  <img src="screenshots/own.jpg" width="35%">
+  <img src="screenshots/other.jpg" width="35%">
 </p>
 
 ### ❤️ Favorite's Page  
 <p align="center">
-  <img src="screenshots/favorite.jpg" width="90%">
+  <img src="screenshots/favorite.jpg" width="35%">
 </p>
 
 ### ℹ️ About Page  
 <p align="center">
-  <img src="screenshots/about.jpg" width="90%">
+  <img src="screenshots/about.jpg" width="35%">
 </p>
 
 ### ⚙️ Settings Page  
 <p align="center">
-  <img src="screenshots/settings.jpg" width="45%">
-  <img src="screenshots/help.jpg" width="45%">
+  <img src="screenshots/settings.jpg" width="35%">
+  <img src="screenshots/help.jpg" width="35%">
 </p>
 
 
